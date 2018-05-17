@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/margin_unit"
+    android:layout_marginEnd="@dimen/margin_unit"
+    android:layout_marginTop="@dimen/margin_unit_half">
+
+    <TextView
+        android:id="@+id/tv_stack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lines="1"
+        android:maxLines="1"
+        android:ellipsize="end"
+        tools:text="bla bla bla"/>
+
+</RelativeLayout>

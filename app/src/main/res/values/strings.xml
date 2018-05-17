@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TenTenTest</string>
+
+    <string name="main_button_text">Click here to start</string>
+    <string name="main_checkbox_text">Tic here if you want to see the stack</string>
+
+</resources>
